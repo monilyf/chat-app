@@ -1,0 +1,9 @@
+Integrating Socket.IO
+
+- Socket.IO is composed of two parts:
+    1) A server that integrates with the NodeJS HTTP server socket.IO
+    2) A client library that loads on the browser side socket.io-client
+
+- During development, socket.io servers the client automatically for us
+- npm install socket.io (for server)
+- npm install socket.io-client (for client)
